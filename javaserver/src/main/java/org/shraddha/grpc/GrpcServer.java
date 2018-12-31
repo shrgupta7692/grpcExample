@@ -1,4 +1,4 @@
-package org.baeldung.grpc.server;
+package org.shraddha.grpc;
 
 import io.grpc.Server;
 import io.grpc.ServerBuilder;
