@@ -1,8 +1,6 @@
-package org.baeldung.grpc.server;
+package org.shraddha.grpc;
 
 import io.grpc.stub.StreamObserver;
-import org.baeldung.grpc.HelloServiceGrpc;
-import org.baeldung.grpc.HelloServiceOuterClass;
 
 public class HelloServiceImpl  extends HelloServiceGrpc.HelloServiceImplBase {
 
