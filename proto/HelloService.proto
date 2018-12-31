@@ -1,5 +1,7 @@
 syntax = "proto3";
 
+option java_package= "org.shraddha.grpc";
+
 message HelloRequest {
     string firstName = 1;
     string lastName = 2;
